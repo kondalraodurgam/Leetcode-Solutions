@@ -12,6 +12,17 @@ var twoSum = function(nums, target) {
 
 // Solution  O(n)
 var twoSum = function(nums, target) {
+    var comp = {};
+    for (var i = 0; i < nums.length; i++) {
+        if (comp[nums[i]] >= 0) {
+            return [comp[nums[i]], i];
+        }
+        comp[target - nums[i]] = i;
+    }
+};
+
+// Solution  O(n^2)
+var twoSum = function(nums, target) {
     var minValue = 0;
     for (var i = 1; i < nums.length; i++) {
         if (nums[minValue] + nums[i] === target) {
@@ -20,16 +31,5 @@ var twoSum = function(nums, target) {
             minValue++;
             i = minValue;
         }
-    }
-};
-
-// Solution  O(n)
-var twoSum = function(nums, target) {
-    var comp = {};
-    for (var i = 0; i < nums.length; i++) {
-        if (comp[nums[i]] >= 0) {
-            return [comp[nums[i]], i];
-        }
-        comp[target - nums[i]] = i;
     }
 };
