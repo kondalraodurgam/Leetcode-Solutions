@@ -7,7 +7,7 @@ Hope you enjoy the journey of learning data structures and algorithms.
 
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---:      |   :---: |:---: |:---: |:---: |
-| 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/1.TwoSum.js)  |O(n)|O(1)|Easy|
+| 1619 | [Mean of Array After Removing Some Elements](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/trimMean.js)  |O(n)|O(1)|Easy|
 
 [HashTable](https://leetcode.com/explore/learn/card/hash-table/)
 
