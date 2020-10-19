@@ -22,5 +22,11 @@ Hope you enjoy the journey of learning data structures and algorithms.
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.js)  |O(n)|O(n)|Easy|
 
 
+[Greedy](https://leetcode.com/tag/greedy/)
+
+| S.No | Title| Solution| Time |Space |Difficulty|
+|  :---:        |     :---      |   :---: |:---: |:---: |:---: |
+| 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/greedy/1221.SplitAStringInBalancedStrings.js)  |O(n)|O(n)|Easy|
+
 
 
