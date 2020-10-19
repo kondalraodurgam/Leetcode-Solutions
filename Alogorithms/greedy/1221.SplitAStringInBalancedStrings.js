@@ -16,3 +16,12 @@ var balancedStringSplit = function(s) {
     }
     return maxBalStr;
 };
+
+var balancedStringSplit = function(s) {
+    let val, res = 0;
+    for (let x of s) {
+        x === 'R' ? val++ : val--;
+        if (val === 0) res++;
+    }
+    return res;
+};
