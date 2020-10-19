@@ -6,8 +6,9 @@ Hope you enjoy the journey of learning data structures and algorithms.
 
 
 | S.No | Title| Solution| Time |Space |Difficulty|
-|  :---:        |     :---:      |   :---: |:---: |:---: |:---: |
+|  :---:        |     :---      |   :---: |:---: |:---: |:---: |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/trimMean.js)  |O(n)|O(1)|Easy|
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/27.RemoveElement.js)  |O(n)|O(n)|Easy|
 
 
 [HashTable](https://leetcode.com/explore/learn/card/hash-table/)
