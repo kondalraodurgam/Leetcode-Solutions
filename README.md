@@ -26,8 +26,8 @@ Hope you enjoy the journey of learning data structures and algorithms.
 
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
-| 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/greedy/1221.SplitAStringInBalancedStrings.js)  |O(n)|O(1)|Easy|
-| 1486| [ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/greedy/1486.XOROperationInAnArray.js)  |O(1)|O(1)|Easy|
+| 1221| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/greedy/easy/1221.SplitAStringInBalancedStrings.js)  |O(n)|O(1)|Easy|
+| 1486| [ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/greedy/easy/1486.XOROperationInAnArray.js)  |O(1)|O(1)|Easy|
 
 
 
