@@ -10,6 +10,7 @@ Hope you enjoy the journey of learning data structures and algorithms.
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/trimMean.js)  |O(n)|O(1)|Easy|
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/27.RemoveElement.js)  |O(n)|O(1)|Easy|
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1394.%20FindLuckyIntegerInAnArray.Js)  |O(n)|O(1)|Easy|
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/191.NumberOf1Bits.js)  |O(1)|O(1)|Easy|
 
 
 [HashTable](https://leetcode.com/explore/learn/card/hash-table/)
