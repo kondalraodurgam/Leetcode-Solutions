@@ -33,4 +33,11 @@ Hope you enjoy the journey of learning data structures and algorithms.
 | 1486| [ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/greedy/easy/1486.XOROperationInAnArray.js)  |O(1)|O(1)|Easy|
 
 
+[Recursive](https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/)
+
+| S.No | Title| Solution| Time |Space |Difficulty|
+|  :---:        |     :---      |   :---: |:---: |:---: |:---: |
+| 344| [Reverse String](https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/1440/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Recursive/344.Reverse%20String%202.js)  |O(n)|O(1)|Easy|
+
+
 
