@@ -17,8 +17,16 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 1365| [ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js)  |O(n)|O(1)|Easy|
 
 
-[HashTable](https://leetcode.com/explore/learn/card/hash-table/)
+# [HashTable](https://leetcode.com/explore/learn/card/hash-table/)
+Hash Table is a data structure which organizes data using hash functions in order to support quick insertion and search.
 
+There are two different kinds of hash tables: hash set and hash map.
+
+The hash set is one of the implementations of a set data structure to store no repeated values.
+The hash map is one of the implementations of a map data structure to store (key, value) pairs.
+It is easy to use a hash table with the help of standard template libraries. Most common languages such as Java, C++ and Python support both hash set and hash map.
+
+By choosing a proper hash function, the hash table can achieve wonderful performance in both insertion and search.
 
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
@@ -28,7 +36,7 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.js)  |O(n)|O(1)|Easy|
 
 
-[Greedy](https://leetcode.com/tag/greedy/)
+# [Greedy](https://leetcode.com/tag/greedy/)
 
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
@@ -36,8 +44,8 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 1486| [ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/greedy/easy/1486.XOROperationInAnArray.js)  |O(1)|O(1)|Easy|
 
 
-[Recursive](https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/)
-
+# [Recursion I](https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/)
+Recursion is an important concept in computer science. It is a foundation for many other algorithms and data structures. However, the concept of recursion can be tricky to grasp for many beginners.
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
 | 344| [Reverse String](https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/1440/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Recursive/344.Reverse%20String%202.js)  |O(n)|O(1)|Easy|
