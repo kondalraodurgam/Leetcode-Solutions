@@ -54,6 +54,7 @@ Mid - the index that we use to apply a condition to determine if we should searc
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
 | 704|[ Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Binary%20Search/704.%20Binary%20Search.js)  |O(log(n))|O(1)|Easy|
+| 35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Binary%20Search/35.%20Search%20Insert%20Position.js)  |O(log(n))|O(1)|Easy|
 
 
 
