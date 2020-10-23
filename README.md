@@ -40,6 +40,23 @@ By choosing a proper hash function, the hash table can achieve wonderful perform
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.js)  |O(n)|O(1)|Easy|
 
 
+# [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
+What is Binary Search?
+Binary Search is one of the most fundamental and useful algorithms in Computer Science. It describes the process of searching for a specific value in an ordered collection.
+
+Terminology used in Binary Search:
+
+Target - the value that you are searching for
+Index - the current location that you are searching
+Left, Right - the indicies from which we use to maintain our search Space
+Mid - the index that we use to apply a condition to determine if we should search left or right.
+
+| S.No | Title| Solution| Time |Space |Difficulty|
+|  :---:        |     :---      |   :---: |:---: |:---: |:---: |
+| 704|[ Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Binary%20Search/704.%20Binary%20Search.js)  |O(log(n))|O(1)|Easy|
+
+
+
 # [Greedy](https://leetcode.com/tag/greedy/)
 
 | S.No | Title| Solution| Time |Space |Difficulty|
