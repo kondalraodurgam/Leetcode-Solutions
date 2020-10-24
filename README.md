@@ -18,6 +18,7 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 1491| [ Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.js)  |O(n)|O(1)|Easy|
 | 456 | [ 132 Pattern](https://leetcode.com/problems/132-pattern/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/456.%20132%20Pattern.js)  |O(n)|O(n)|Easy|
 | 482 | [ License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/482.%20License%20Key%20Formatting.js)  |O(n)|O(1)|Easy|
+| 1460 | [ Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-array.js)  |O(n)|O(n)|Easy|
 
 
 
