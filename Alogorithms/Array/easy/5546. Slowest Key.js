@@ -19,3 +19,16 @@ var slowestKey = function(releaseTimes, keysPressed) {
     }
     return str;
 };
+
+
+var slowestKey = function(releaseTimes, keysPressed) {
+    let index = 0, maxVal = releaseTimes[0];
+    for (var i = 1; i < keysPressed.length; i++) {
+        if ((releaseTimes[i] - releaseTimes[i - 1]) >= maxVal) {
+            maxVal = (releaseTimes[i] - releaseTimes[i - 1]);
+            index = i;
+        }
+    }
+
+    return keysPressed[index];
+};
