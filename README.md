@@ -19,6 +19,7 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 456 | [ 132 Pattern](https://leetcode.com/problems/132-pattern/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/456.%20132%20Pattern.js)  |O(n)|O(n)|Easy|
 | 482 | [ License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/482.%20License%20Key%20Formatting.js)  |O(n)|O(1)|Easy|
 | 1460 | [ Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-array.js)  |O(n)|O(n)|Easy|
+| 1629 | [ Slowest Key](https://leetcode.com/problems/slowest-key/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/5546.%20Slowest%20Key.js)  |O(n)|O(n)|Easy|
 
 
 
