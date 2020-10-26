@@ -68,6 +68,14 @@ Mid - the index that we use to apply a condition to determine if we should searc
 | 1486| [ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/greedy/easy/1486.XOROperationInAnArray.js)  |O(1)|O(1)|Easy|
 
 
+# [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
+
+| S.No | Title| Solution| Time |Space |Difficulty|
+|  :---:        |     :---      |   :---: |:---: |:---: |:---: |
+| 70| [ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Dynamic%20Programming/70.%20Climbing%20Stairs.js)  |O(n)|O(1)|Easy|
+
+
+
 # [Recursion I](https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/)
 Recursion is an important concept in computer science. It is a foundation for many other algorithms and data structures. However, the concept of recursion can be tricky to grasp for many beginners.
 | S.No | Title| Solution| Time |Space |Difficulty|
