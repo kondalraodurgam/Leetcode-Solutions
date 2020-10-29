@@ -22,6 +22,7 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 1629 | [ Slowest Key](https://leetcode.com/problems/slowest-key/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/5546.%20Slowest%20Key.js)  |O(n)|O(n)|Easy|
 | 605  | [ Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/605.%20Can%20Place%20Flowers.js)  |O(n)|O(n)|Easy|
 | 228   | [ Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/228.%20Summary%20Ranges.js)  |O(n)|O(n)|Easy|
+| 1323 | [ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1323.%20Maximum%2069%20Number.js)  |O(n)|O(n)|Easy|
 
 
 
