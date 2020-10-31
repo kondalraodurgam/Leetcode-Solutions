@@ -25,6 +25,15 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 1323 | [ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1323.%20Maximum%2069%20Number.js)  |O(n)|O(n)|Easy|
 
 
+# [Math](https://leetcode.com/tag/math/)
+
+| S.No | Title| Solution| Time |Space |Difficulty|
+|  :---:        |     :---      |   :---: |:---: |:---: |:---: |
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/submissions/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/1.TwoSum.js)  |O(1)|O(1)|Easy|
+
+
+
+
 
 # [HashTable](https://leetcode.com/explore/learn/card/hash-table/)
 Hash Table is a data structure which organizes data using hash functions in order to support quick insertion and search.
