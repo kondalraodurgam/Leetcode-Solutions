@@ -29,7 +29,7 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
-| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/submissions/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/1.TwoSum.js)  |O(1)|O(1)|Easy|
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/submissions/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Math/1025.%20Divisor%20Game.js)  |O(1)|O(1)|Easy|
 
 
 
