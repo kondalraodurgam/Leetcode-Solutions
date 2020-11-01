@@ -23,14 +23,14 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 605  | [ Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/605.%20Can%20Place%20Flowers.js)  |O(n)|O(n)|Easy|
 | 228   | [ Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/228.%20Summary%20Ranges.js)  |O(n)|O(n)|Easy|
 | 1323 | [ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1323.%20Maximum%2069%20Number.js)  |O(n)|O(n)|Easy|
-| 1323 | [ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1636.%20Sort%20Array%20by%20Increasing%20Frequency.js)  |O(n)|O(n)|Easy|
+| 1636 | [ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1636.%20Sort%20Array%20by%20Increasing%20Frequency.js)  |O(n)|O(1)|Easy|
 
 
 # [Math](https://leetcode.com/tag/math/)
 
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
-| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Math/1025.%20Divisor%20Game.js)  |O(n)|O(1)|Easy|
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Math/1025.%20Divisor%20Game.js)  |O(1)|O(1)|Easy|
 
 
 
