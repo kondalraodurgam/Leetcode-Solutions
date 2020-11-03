@@ -50,7 +50,7 @@ By choosing a proper hash function, the hash table can achieve wonderful perform
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/1.TwoSum.js)  |O(n)|O(1)|Easy|
-| 575 | [Distribute Candies ](https://leetcode.com/problems/distribute-candies/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/575.distribute_Candies.js)  |O(n)|O(1)|Easy|
+| 575 | [Distribute Candies ](https://leetcode.com/problems/distribute-candies/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/575.distribute_Candies.js)  |O(1)|O(1)|Easy|
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/204.countPrime.js)  |O(n)|O(1)|Easy|
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Hash/easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.js)  |O(n)|O(1)|Easy|
 
