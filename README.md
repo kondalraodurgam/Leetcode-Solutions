@@ -25,6 +25,8 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 1323 | [ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1323.%20Maximum%2069%20Number.js)  |O(n)|O(n)|Easy|
 | 1636 | [ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1636.%20Sort%20Array%20by%20Increasing%20Frequency.js)  |O(n)|O(1)|Easy|
 
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/169.%20Majority%20Element.js)  |O(n)|O(1)|Easy|
+
 
 # [Math](https://leetcode.com/tag/math/)
 
