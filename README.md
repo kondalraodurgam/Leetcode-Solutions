@@ -10,7 +10,7 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
-| 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/trimMean.js)  |O(n)|O(1)|Easy|
+| 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/trimMean.js)  |O(n)|O(n)|Easy|
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/27.RemoveElement.js)  |O(n)|O(1)|Easy|
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1394.%20FindLuckyIntegerInAnArray.Js)  |O(n)|O(1)|Easy|
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/191.NumberOf1Bits.js)  |O(1)|O(1)|Easy|
@@ -25,6 +25,7 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 1323 | [ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1323.%20Maximum%2069%20Number.js)  |O(n)|O(n)|Easy|
 | 1636 | [ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1636.%20Sort%20Array%20by%20Increasing%20Frequency.js)  |O(n)|O(1)|Easy|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/169.%20Majority%20Element.js)  |O(n)|O(1)|Easy|
+| 26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js)  |O(n)|O(1)|Easy|
 
 
 # [Math](https://leetcode.com/tag/math/)
