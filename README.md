@@ -31,11 +31,6 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 
 # [String](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/)
 
-Introduction to String
-As we mentioned in the overview, a string is an array of characters.
-
-In this chapter, we will go deeper into the string. After this chapter, you will:
-
 Be familiar with the basic operations in a string, especially the unique operations which we don't have in an array
 Understand the differences between different comparison functions;
 Determine whether the string is immutable or not in your favorite language and understand the impact of this feature;
@@ -43,7 +38,7 @@ Be able to solve basic string-related problems.
 
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/String/7.%20Reverse%20Integer.js)  |O(1)|O(1)|Easy|
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/String/7.%20Reverse%20Integer.js)  |O(n)|O(1)|Easy|
 
 
 # [Math](https://leetcode.com/tag/math/)
