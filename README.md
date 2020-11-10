@@ -32,8 +32,10 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 # [String](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/)
 
 Be familiar with the basic operations in a string, especially the unique operations which we don't have in an array
-Understand the differences between different comparison functions;
-Determine whether the string is immutable or not in your favorite language and understand the impact of this feature;
+Understand the differences between different comparison functions.
+
+Determine whether the string is immutable or not in your favorite language and understand the impact of this feature.
+
 Be able to solve basic string-related problems.
 
 | S.No | Title| Solution| Time |Space |Difficulty|
