@@ -42,6 +42,8 @@ Be able to solve basic string-related problems.
 | S.No | Title| Solution| Time |Space |Difficulty|
 |  :---:        |     :---      |   :---: |:---: |:---: |:---: |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/String/7.%20Reverse%20Integer.js)  |O(n)|O(1)|Easy|
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/String/28.Implement%20strStr().js)  |O(n^2)|O(1)|Easy|
+| 67 | [ Add Binary](https://leetcode.com/problems/add-binary/) | [https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/String/67.%20Add%20Binary.js)  |O(n)|O(1)|Easy|
 
 
 # [Math](https://leetcode.com/tag/math/)
