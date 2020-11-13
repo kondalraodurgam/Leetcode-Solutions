@@ -1,8 +1,8 @@
-var reverseString = function(s, i = 0, j = s.length-1 ) {
+var reverseString = function(s, i = 0, j = s.length - 1) {
     while (i <= j) {
         [s[i], s[j]] = [s[j], s[i]];
-       return reverseString(s, i+1, j-1)
-    } 
+        return reverseString(s, i + 1, j - 1)
+    }
 };
 
 var reverseString = function(s, i = 0, j = s.length - 1) {
@@ -28,3 +28,7 @@ var reverseString = function(s) {
         [s[i], s[s.length - 1 - i]] = [s[s.length - 1 - i], s[i]]
     }
 };
+
+var reverseString = function(s) {
+    s.reverse();
+}
