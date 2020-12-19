@@ -27,6 +27,7 @@ Arrays are a simple data structure for storing lots of similar items. They exist
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/169.%20Majority%20Element.js)  |O(n)|O(1)|Easy|
 | 26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js)  |O(n)|O(1)|Easy|
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/832.%20Flipping%20an%20Image.js)  |O(n)|O(1)|Easy|
+| 1475 | [https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [JavaScript](https://github.com/kondalraodurgam/LeetCode-Solutions/blob/main/Alogorithms/Array/easy/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.js)  |O(n^2)|O(n)|Easy|
 
 
 
